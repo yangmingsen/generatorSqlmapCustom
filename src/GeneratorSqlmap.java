@@ -12,6 +12,7 @@ import org.mybatis.generator.internal.DefaultShellCallback;
 
 public class GeneratorSqlmap {
 
+	
     public void generator() throws Exception{
 
         List<String> warnings = new ArrayList<String>();
